@@ -66,18 +66,27 @@ export default function Home() {
         </p>
       </header>
 
-      <main className="text-center max-w-xl z-10 space-y-6 px-4">
+      <main className="text-center max-w-2xl z-10 space-y-6 px-6">
         <div className="backdrop-blur-sm bg-white/5 p-4 rounded-xl border border-white/10 shadow-lg transform hover:scale-105 transition-all duration-300">
           <p className="text-base leading-relaxed text-gray-200">
-            Hello! I&apos;m Shuichiro, a passionate web developer with a knack
+            {/* Hello! I&apos;m Shuichiro, a passionate web developer with a knack
             for creating beautiful and functional web applications. I love
-            exploring new technologies and bringing ideas to life through code.
+            exploring new technologies and bringing ideas to life through code. */}
+            Hello. I am a system engineer at NTT DATA Corporation. I usually
+            work as a developer in an agile team, developing web applications
+            and building AWS infrastructure. In the future, I hope to become a
+            product owner with a strong understanding of technology.
           </p>
         </div>
         <div className="backdrop-blur-sm bg-white/5 p-4 rounded-xl border border-white/10 shadow-lg transform hover:scale-105 transition-all duration-300">
           <p className="text-base leading-relaxed text-gray-200">
-            When I&apos;m not coding, you can find me enjoying photography,
-            traveling, or experimenting with new design trends.
+            {/* When I&apos;m not coding, you can find me enjoying photography,
+            traveling, or experimenting with new design trends. */}
+            My strengths are in the following languages and frameworks: Golang
+            (Gin), and Typescript (React, Next.js). I have expertise in
+            operating container servers using AWS ECS. I hold the Fundamental IT
+            Engineer Examination, Applied IT Engineer Examination, and AWS
+            Solution Architect Associate certifications.
           </p>
         </div>
 
